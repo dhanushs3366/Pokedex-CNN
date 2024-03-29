@@ -1,4 +1,4 @@
-Number, Name, Types, Type1, Type2, Height(m), Weight(kg), Male_Pct, Female_Pct, Capt_Rate, Exp_Points, Exp_Speed, Base_Total, HP, Attack, Defense, Special, Speed, Normal_Dmg, Fire_Dmg, Water_Dmg, Eletric_Dmg, Grass_Dmg, Ice_Dmg, Fight_Dmg, Poison_Dmg, Ground_Dmg, Flying_Dmg, Psychic_Dmg, Bug_Dmg, Rock_Dmg, Ghost_Dmg, Dragon_Dmg, Evolutions,Legendary
+Number,Name, Types,Type1,Type2, Height(m), Weight(kg), Male_Pct, Female_Pct, Capt_Rate, Exp_Points, Exp_Speed, Base_Total, HP, Attack, Defense, Special, Speed, Normal_Dmg, Fire_Dmg, Water_Dmg, Eletric_Dmg, Grass_Dmg, Ice_Dmg, Fight_Dmg, Poison_Dmg, Ground_Dmg, Flying_Dmg, Psychic_Dmg, Bug_Dmg, Rock_Dmg, Ghost_Dmg, Dragon_Dmg, Evolutions,Legendary
 1,Bulbasaur,2,grass,poison,0.7,6.9,87.5,12.5,45,1059860,Medium Slow,253,45,49,49,65,45,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,4,1,1,1,2,0
 2,Ivysaur,2,grass,poison,1,13,87.5,12.5,45,1059860,Medium Slow,325,60,62,63,80,60,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,4,1,1,1,2,0
 3,Venusaur,2,grass,poison,2,100,87.5,12.5,45,1059860,Medium Slow,425,80,82,83,100,80,1,2,0.5,0.5,0.25,2,0.5,1,1,2,2,4,1,1,1,2,0

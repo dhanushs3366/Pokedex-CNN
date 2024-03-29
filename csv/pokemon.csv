@@ -1,4 +1,4 @@
-,name,pokemon_id,type1,type2,image_path
+,name,pokemon_id,Type1,Type2,image_path
 0,Abra,63,Psychic,,../dataset/pokemon_dataset/Abra/0282b2f3a22745f1a436054ea15a0ae5.jpg
 1,Abra,63,Psychic,,../dataset/pokemon_dataset/Abra/05e7ae416d91489dbf71fbe333aff4b8.jpg
 2,Abra,63,Psychic,,../dataset/pokemon_dataset/Abra/06b9eec4827d4d49b1b4c284308708df.jpg

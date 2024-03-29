@@ -4,7 +4,7 @@
     <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoredPackages">
         <value>
-          <list size="65">
+          <list size="66">
             <item index="0" class="java.lang.String" itemvalue="protobuf" />
             <item index="1" class="java.lang.String" itemvalue="threadpoolctl" />
             <item index="2" class="java.lang.String" itemvalue="googleapis-common-protos" />
@@ -70,6 +70,7 @@
             <item index="62" class="java.lang.String" itemvalue="pytz" />
             <item index="63" class="java.lang.String" itemvalue="google-auth" />
             <item index="64" class="java.lang.String" itemvalue="Pillow" />
+            <item index="65" class="java.lang.String" itemvalue="typing_extensions" />
           </list>
         </value>
       </option>
